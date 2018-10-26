@@ -20,7 +20,7 @@ This assumes that the user has Python installed.
 
 2) *python3 create_s3bucket.py*
 
-## Looking at the output
+## Looking at the output:
 Once the python modules has been run, the image file added onto the EC2 web server instance can be viewed at
 
 - ec2-[public-ip-address-of-created-instance].eu-west-1.compute.amazonaws.com
