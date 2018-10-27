@@ -1,4 +1,4 @@
-# Boto3 Amazon Web Server Experiments (Developer Operations Assignment 1)
+# Boto3 Amazon Web Services Experiments (Developer Operations Assignment 1)
 The following Python modules operates
 
 1) The creation and launch of an AWS EC2 instance with a pre-configured nginx web server.
